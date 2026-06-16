@@ -5,3 +5,4 @@ var supportingActor = "Al Pacino";
 var supportingActress = "Diane Keaton";
 
 // Write your code below
+var nominations = [bestPicture, bestDirector, leadActor, supportingActor, supportingActress];
